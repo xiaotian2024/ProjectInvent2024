@@ -71,3 +71,4 @@ while(1):
 
 	except sr.UnknownValueError:
 		print("unknown error occurred")
+#asdasd
