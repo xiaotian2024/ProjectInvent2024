@@ -50,3 +50,4 @@ def live_transcriber():
 
 # Run the live transcriber
 live_transcriber()
+#大家好！
